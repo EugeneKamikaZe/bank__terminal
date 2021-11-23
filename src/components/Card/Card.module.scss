@@ -1,0 +1,22 @@
+.wrapper {
+  position: absolute;
+  top: 32px;
+  left: 32px;
+}
+
+.title {
+  margin-bottom: 16px;
+}
+
+.card {
+  padding: 16px;
+  border: 1px solid gray;
+  border-radius: 4px;
+  margin-bottom: 24px;
+}
+
+.active {
+  box-shadow: 4px 4px 8px 0 rgba(34, 60, 80, 0.2);
+  transform: translateX(16px);
+}
+

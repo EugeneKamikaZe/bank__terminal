@@ -1,0 +1,20 @@
+.wrapper {
+  display: flex;
+  gap: 8px;
+}
+
+.deposit,
+.get {
+  padding: 8px 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  border: 1px solid currentColor;
+  outline: none;
+}
+
+.deposit {
+  background-color: #ff4e4e;
+}
+.get {
+  background-color: #17b017;
+}

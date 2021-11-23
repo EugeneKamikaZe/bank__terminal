@@ -1,0 +1,21 @@
+.wrapper {
+  width: 100%;
+  padding-left: 0;
+  align-self: flex-start;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+}
+
+.submit {
+  margin: 16px auto;
+}
+
+.bill {
+  input {
+    margin-top: 8px;
+    margin-left: 8px;
+    width: 40px;
+  }
+}
